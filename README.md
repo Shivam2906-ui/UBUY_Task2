@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The **Product List** section showcases a variety of products. By clicking on any product, users can view detailed information about it, including specifications, pricing, and customer reviews.
 
 ## Available Scripts
 
