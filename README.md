@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-The **Product List** section showcases a variety of products. By clicking on any product, users can view detailed information about it, including specifications, pricing, and customer reviews.    
+### `The Product List section showcases a variety of products. By clicking on any product, users can view detailed information about it, including specifications, pricing, and customer reviews.`    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
