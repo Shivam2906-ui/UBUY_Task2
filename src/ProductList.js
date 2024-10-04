@@ -22,7 +22,6 @@ const ProductList = () => {
   return (
     <div className="container mx-auto p-4 bg-gray-100 font-serif">
       {" "}
-      {/* Added font-serif here */}
       <h1 className="text-3xl font-bold text-center mb-6 text-green-600">
         Product List
       </h1>
@@ -42,11 +41,10 @@ const ProductList = () => {
           >
             <div className="p-2">
               {" "}
-              {/* Added padding around the image */}
               <img
-                src={product.images[0]} // Ensure you access the first image if images is an array
+                src={product.images[0]} 
                 alt={product.title}
-                className="w-full h-48 object-contain" // Changed to object-contain for better visibility
+                className="w-full h-48 object-contain"
               />
             </div>
             <div className="p-4">
