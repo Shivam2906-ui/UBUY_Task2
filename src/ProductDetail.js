@@ -39,7 +39,7 @@ const ProductDetail = () => {
           <img
             src={product.images[0]} // Access the first image
             alt={product.title}
-            className="w-full h-auto max-h-[300px] object-contain p-2 rounded-lg shadow-md bg-white" // Added padding and background color
+            className="w-full h-auto max-h-[300px] object-contain p-2 rounded-lg shadow-md bg-white"
           />
         </div>
 
